@@ -12,27 +12,34 @@
 /*　背景画像設定　*/
 
 .slider-item01 {
-    background:url(../newyearparty2022/product/museumtop3.png);
+    /* background:url(../newyearparty2022/product/museumtop3.png); */
+    background:url(https://github.com/broccoli1983/DeployMuseum/blob/master/product/museumtop3.png?raw=true);
 }
 
 .slider-item02 {
-    background:url(../newyearparty2022/product/icecream.png);
+    /* background:url(../newyearparty2022/product/icecream.png); */
+    background:url(https://github.com/broccoli1983/DeployMuseum/blob/master/product/icecream.png?raw=true);
 }
 
 .slider-item03 {
-    background:url(../newyearparty2022/product/shyakyo.png);
+    /* background:url(../newyearparty2022/product/shyakyo.png); */
+    background:url(https://github.com/broccoli1983/DeployMuseum/blob/master/product/shyakyo.png?raw=true);
 }
 .slider-item04 {
-    background:url(../newyearparty2022/product/onehandtwitter.png);
+    /* background:url(../newyearparty2022/product/onehandtwitter.png); */
+    background:url(https://github.com/broccoli1983/DeployMuseum/blob/master/product/onehandtwitter.png?raw=true);
 }
 .slider-item05 {
-    background:url(../newyearparty2022/product/zoommooz.png);
+    /* background:url(../newyearparty2022/product/zoommooz.png); */
+    background:url(https://github.com/broccoli1983/DeployMuseum/blob/master/product/zoommooz.png?raw=true);
 }
 .slider-item06 {
-    background:url(../newyearparty2022/product/jf2.png);
+    /* background:url(../newyearparty2022/product/jf2.png); */
+    background:url(https://github.com/broccoli1983/DeployMuseum/blob/master/product/jf2.png?raw=true);
 }
 .slider-item07 {
-    background:url(../newyearparty2022/product/fuku.png);
+    /* background:url(../newyearparty2022/product/fuku.png); */
+    background:url(https://github.com/broccoli1983/DeployMuseum/blob/master/product/fuku.png?raw=true);
 }
 .slider-item {
     width: 100%;/*各スライダー全体の横幅を画面の高さいっぱい（100%）にする*/
