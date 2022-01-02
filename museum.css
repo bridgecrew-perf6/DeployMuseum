@@ -41,6 +41,10 @@
     /* background:url(../newyearparty2022/product/fuku.png); */
     background:url(https://github.com/broccoli1983/DeployMuseum/blob/master/product/fuku.png?raw=true);
 }
+.slider-item08 {
+    /* background:url(../newyearparty2022/product/hikarify.png); */
+    background:url(https://github.com/broccoli1983/DeployMuseum/blob/master/product/hikarify.png?raw=true);
+}
 .slider-item {
     width: 100%;/*各スライダー全体の横幅を画面の高さいっぱい（100%）にする*/
     height:100vh;/*各スライダー全体の縦幅を画面の高さいっぱい（100vh）にする*/
