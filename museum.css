@@ -54,16 +54,28 @@
     background:url(https://github.com/broccoli1983/DeployMuseum/blob/master/product/roulette.png?raw=true);
 }
 .slider-item11 {
-    /* background:url(../newyearparty2022/product/roulette.png); */
-    background:url(https://github.com/broccoli1983/DeployMuseum/blob/master/product/roulette.png?raw=true);
-}
-.slider-item12 {
     /* background:url(../newyearparty2022/product/gsnobouken.png); */
     background:url(https://github.com/broccoli1983/DeployMuseum/blob/master/product/gsnobouken.png?raw=true);
 }
-.slider-item13 {
+.slider-item12 {
     /* background:url(../newyearparty2022/product/cheezeacademybyapple.png); */
     background:url(https://github.com/broccoli1983/DeployMuseum/blob/master/product/cheezeacademybyapple.png?raw=true);
+}
+.slider-item13 {
+    background:url(../newyearparty2022/product/sake.png);
+    background:url(https://github.com/broccoli1983/DeployMuseum/blob/master/product/sake.png?raw=true);
+}
+.slider-item14 {
+    background:url(../newyearparty2022/product/randmnumber.png);
+    background:url(https://github.com/broccoli1983/DeployMuseum/blob/master/product/randmnumber.png?raw=true);
+}
+.slider-item15 {
+    background:url(../newyearparty2022/product/eatbread.png);
+    background:url(https://github.com/broccoli1983/DeployMuseum/blob/master/product/eatbread.png?raw=true);
+}
+.slider-item16 {
+    background:url(../newyearparty2022/product/timer.png);
+    background:url(https://github.com/broccoli1983/DeployMuseum/blob/master/product/timer.png?raw=true);
 }
 .slider-item {
     width: 100%;/*各スライダー全体の横幅を画面の高さいっぱい（100%）にする*/
